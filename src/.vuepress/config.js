@@ -35,15 +35,10 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    nav: [
-      {
-        text: 'Información',
-        link: '/info/',
-      },
-    ],
+    
     sidebar: {
       '/info/': [
-        '',
+        
         'data',
         'rom',
         'ram',
